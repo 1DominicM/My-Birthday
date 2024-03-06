@@ -1,3 +1,6 @@
+/* Border */
+
+/*
 .col {
     border: 1px dotted black;
     
@@ -6,6 +9,8 @@
 .row {
     border: 1px solid black;
 }
+
+*/
 
 body {
     background-color: #F4F1DE;
@@ -143,10 +148,16 @@ h1 {
   .img {
     width: 581px;
     height: 619px;
+    padding-top: 100px;
   }
 
   p {
     padding-top: 100px;
     font-family: "Neuton", serif;
     font-size: 30px;
+    padding-right: 55px;
+  }
+
+  h1 {
+    padding-bottom: 30px;
   }
