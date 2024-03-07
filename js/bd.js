@@ -19,7 +19,7 @@ function updateFive(){
     document.getElementById('img').src="img/launch1.webp";
 }
 function updateSix(){
-    document.getElementById('output').innerHTML = "On August 27, 1833, Krakatoa erupts in a series of violent explosions. Causing a tidal waves up to 120 ft. high.";
+    document.getElementById('output').innerHTML = "On August 27, 1833, Krakatoa erupts in a series of violent explosions. Causing tidal waves up to 120 ft. high.";
     document.getElementById('img').src="img/volc1.jpg";
 }
 
